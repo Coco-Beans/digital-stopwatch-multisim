@@ -34,7 +34,7 @@ The circuit was designed and tested using NI Multisim.
 The stopwatch counts seconds using a clock signal and updates the display in real time.
 
 ## Circuit Diagram
-![Circuit](images/circuit.png)
+![Circuit](Circuit.png)
 
 ## Applications
 • Digital timers  
